@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oDK0F2CSVLQ=",
+  "dgSpecHash": "bCbq0nBclKB7zrT98JgMknva2L8uweTMnB5tP5GBNgqryyvHJE/fDDQ9Vq8YD/TrH7QEgC3TQkZWQTDVqfqLWA==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\Finesse\\Files\\Finesse.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\Finesse\\Files\\Finesse.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

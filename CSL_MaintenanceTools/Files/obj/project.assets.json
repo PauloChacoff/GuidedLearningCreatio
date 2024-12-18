@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_D_8_Studio\\Default\\dotnet\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "8.2.0.4183",
+    "restore": {
+      "projectUniqueName": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CSL_MaintenanceTools\\Files\\CSL_MaintenanceTools.csproj",
+      "projectName": "CSL_MaintenanceTools",
+      "projectPath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CSL_MaintenanceTools\\Files\\CSL_MaintenanceTools.csproj",
+      "packagesPath": "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_D_8_Studio\\Default\\dotnet\\.nuget\\packages\\",
+      "outputPath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CSL_MaintenanceTools\\Files\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_D_8_Studio\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

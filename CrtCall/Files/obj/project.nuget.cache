@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Ot/ljN1hec=",
+  "dgSpecHash": "LzQIh62nOpTPX04e4X2bQ3zriBw4lJKiy8hs3qLa5IHrJ3HF/8awGDQswJnQIbzUL0BYIMzGHfNSQcEbOQN1Qw==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCall\\Files\\CrtCall.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtCall\\Files\\CrtCall.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

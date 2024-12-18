@@ -7,3 +7,12 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Cale
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.pdb
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\Bin\CalendarBase.dll
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\Bin\CalendarBase.pdb
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.csproj.AssemblyReference.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.AssemblyInfoInputs.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.AssemblyInfo.cs
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.csproj.CoreCompileInputs.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.dll
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\obj\Release\CalendarBase.pdb

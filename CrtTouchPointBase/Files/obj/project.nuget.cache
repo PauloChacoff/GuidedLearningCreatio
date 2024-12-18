@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IGCJZBT35Os=",
+  "dgSpecHash": "IZaniNXgoKlib/UZ+eEWhZaLMNLqDZfPGjKjmBxVtN731D1Ur5Se96STA/vfXE6ApNdGwDr4wYt7C1WekKB1eg==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtTouchPointBase\\Files\\CrtTouchPointBase.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtTouchPointBase\\Files\\CrtTouchPointBase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

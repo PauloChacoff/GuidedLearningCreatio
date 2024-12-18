@@ -7,3 +7,12 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtS
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\obj\Release\CrtStudioCopilot.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\obj\Release\CrtStudioCopilot.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\obj\Release\CrtStudioCopilot.pdb
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\Bin\CrtStudioCopilot.dll
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\Bin\CrtStudioCopilot.pdb
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\obj\Release\CrtStudioCopilot.csproj.AssemblyReference.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\obj\Release\CrtStudioCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\obj\Release\CrtStudioCopilot.AssemblyInfoInputs.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\obj\Release\CrtStudioCopilot.AssemblyInfo.cs
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\obj\Release\CrtStudioCopilot.csproj.CoreCompileInputs.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\obj\Release\CrtStudioCopilot.dll
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtStudioCopilot\Files\obj\Release\CrtStudioCopilot.pdb

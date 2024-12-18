@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EMljrfe9+qA=",
+  "dgSpecHash": "0qE1m81m/EQDzydSFOc+4RT3foGe+td0wd/OV+hx5tiqc9vQadtNB1XXpldcDygjVT4jKQaEmzeJMUS4szvRjQ==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtWebhookServiceBase\\Files\\CrtWebhookServiceBase.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtWebhookServiceBase\\Files\\CrtWebhookServiceBase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

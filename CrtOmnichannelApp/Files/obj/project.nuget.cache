@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oD7gbfkq5pw=",
+  "dgSpecHash": "yb2AaiFEltQgVkTo4/JPPR9pL+6YMmi+/5wjhsd60T7lB1pR6aNU+hZRDeqP1eK8d2hbNNsNJ6EiAqewSzs7+w==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOmnichannelApp\\Files\\CrtOmnichannelApp.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtOmnichannelApp\\Files\\CrtOmnichannelApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

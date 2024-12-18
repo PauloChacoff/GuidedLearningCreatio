@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBc+lI3J5/M=",
+  "dgSpecHash": "lQY5md/f4xY60u3WH6k4WyqpdLb0lx/O5sYN4OT3g8Pz2mxkNqWxrE5kcGw1V8idGtQDSyYe8TtpN3BLsvcLlw==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtFeatureToggling\\Files\\CrtFeatureToggling.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtFeatureToggling\\Files\\CrtFeatureToggling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

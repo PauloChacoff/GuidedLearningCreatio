@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sMmyCfLh6fY=",
+  "dgSpecHash": "u98ARQimYrSPx81F632gc73i5CjzGV+P1IS+NKjjeEBlgoZHJDAvPGEvfVSvHVLsvLgusodt69MxaN7ng11X0w==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtUISwitcher\\Files\\CrtUISwitcher.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtUISwitcher\\Files\\CrtUISwitcher.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,30 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSmsIntegration\\Files\\CrtSmsIntegration.csproj": {}
+    "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSmsIntegration\\Files\\CrtSmsIntegration.csproj": {}
   },
   "projects": {
-    "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSmsIntegration\\Files\\CrtSmsIntegration.csproj": {
+    "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSmsIntegration\\Files\\CrtSmsIntegration.csproj": {
       "version": "8.2.0.4183",
       "restore": {
-        "projectUniqueName": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSmsIntegration\\Files\\CrtSmsIntegration.csproj",
+        "projectUniqueName": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSmsIntegration\\Files\\CrtSmsIntegration.csproj",
         "projectName": "CrtSmsIntegration",
-        "projectPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSmsIntegration\\Files\\CrtSmsIntegration.csproj",
-        "packagesPath": "C:\\Users\\CIAdmin\\.nuget\\packages\\",
-        "outputPath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSmsIntegration\\Files\\obj\\",
+        "projectPath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSmsIntegration\\Files\\CrtSmsIntegration.csproj",
+        "packagesPath": "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_D_8_Studio\\Default\\dotnet\\.nuget\\packages\\",
+        "outputPath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtSmsIntegration\\Files\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\CIAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\WINDOWS\\TEMP\\1\\IIS APPPOOL_D_8_Studio\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
         ],
         "sources": {
-          "https://ts1-infr-nexus.bpmonline.com/repository/nuget-internal/index.json": {},
-          "https://ts1-infr-nexus.bpmonline.com/repository/nuget-v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net472": {
@@ -36,17 +32,12 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net472": {
           "targetAlias": "net472",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
         }
       }
     }

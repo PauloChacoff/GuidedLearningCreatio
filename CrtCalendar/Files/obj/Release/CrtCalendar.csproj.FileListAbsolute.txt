@@ -7,3 +7,12 @@ C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtC
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\obj\Release\CrtCalendar.csproj.CoreCompileInputs.cache
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\obj\Release\CrtCalendar.dll
 C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\obj\Release\CrtCalendar.pdb
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\Bin\CrtCalendar.dll
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\Bin\CrtCalendar.pdb
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\obj\Release\CrtCalendar.csproj.AssemblyReference.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\obj\Release\CrtCalendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\obj\Release\CrtCalendar.AssemblyInfoInputs.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\obj\Release\CrtCalendar.AssemblyInfo.cs
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\obj\Release\CrtCalendar.csproj.CoreCompileInputs.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\obj\Release\CrtCalendar.dll
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCalendar\Files\obj\Release\CrtCalendar.pdb

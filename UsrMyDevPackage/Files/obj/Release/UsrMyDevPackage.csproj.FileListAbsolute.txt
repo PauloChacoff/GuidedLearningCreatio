@@ -1,0 +1,9 @@
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMyDevPackage\Files\Bin\UsrMyDevPackage.dll
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMyDevPackage\Files\Bin\UsrMyDevPackage.pdb
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMyDevPackage\Files\obj\Release\UsrMyDevPackage.csproj.AssemblyReference.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMyDevPackage\Files\obj\Release\UsrMyDevPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMyDevPackage\Files\obj\Release\UsrMyDevPackage.AssemblyInfoInputs.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMyDevPackage\Files\obj\Release\UsrMyDevPackage.AssemblyInfo.cs
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMyDevPackage\Files\obj\Release\UsrMyDevPackage.csproj.CoreCompileInputs.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMyDevPackage\Files\obj\Release\UsrMyDevPackage.dll
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrMyDevPackage\Files\obj\Release\UsrMyDevPackage.pdb

@@ -1,5 +1,3 @@
 is_global = true
 build_property.RootNamespace = CalendarBase
-build_property.ProjectDir = C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CalendarBase\Files\

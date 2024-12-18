@@ -1,0 +1,27 @@
+C:\inetpub\wwwroot\CreatioDEMO\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\Bin\CSL_MaintenanceTools.dll
+C:\inetpub\wwwroot\CreatioDEMO\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\Bin\CSL_MaintenanceTools.pdb
+C:\inetpub\wwwroot\CreatioDEMO\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\CreatioDEMO\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\CreatioDEMO\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\CreatioDEMO\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.AssemblyInfo.cs
+C:\inetpub\wwwroot\CreatioDEMO\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\CreatioDEMO\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.dll
+C:\inetpub\wwwroot\CreatioDEMO\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.pdb
+C:\inetpub\wwwroot\CreatioStudioMarketplace\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\Bin\CSL_MaintenanceTools.dll
+C:\inetpub\wwwroot\CreatioStudioMarketplace\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\Bin\CSL_MaintenanceTools.pdb
+C:\inetpub\wwwroot\CreatioStudioMarketplace\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\CreatioStudioMarketplace\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\CreatioStudioMarketplace\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\CreatioStudioMarketplace\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.AssemblyInfo.cs
+C:\inetpub\wwwroot\CreatioStudioMarketplace\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\CreatioStudioMarketplace\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.dll
+C:\inetpub\wwwroot\CreatioStudioMarketplace\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.pdb
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\Bin\CSL_MaintenanceTools.dll
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\Bin\CSL_MaintenanceTools.pdb
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.csproj.AssemblyReference.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.AssemblyInfoInputs.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.AssemblyInfo.cs
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.csproj.CoreCompileInputs.cache
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.dll
+C:\Studio Creatio 8.2\8.2.0.4183_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CSL_MaintenanceTools\Files\obj\Release\CSL_MaintenanceTools.pdb

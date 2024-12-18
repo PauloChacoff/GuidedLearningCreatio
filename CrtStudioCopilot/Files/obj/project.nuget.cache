@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8spe0ZJsKUQ=",
+  "dgSpecHash": "aWzAMiZ5M+PXhxQhMtU7kZOZRiAxmbC5TiK2Qo3e0RfRPYEDc82Vprx/iRSTS1dzrrnab2Pic8I9rLhXWDKfvw==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtStudioCopilot\\Files\\CrtStudioCopilot.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtStudioCopilot\\Files\\CrtStudioCopilot.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

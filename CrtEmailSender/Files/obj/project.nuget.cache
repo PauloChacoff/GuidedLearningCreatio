@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wJWhENT4baU=",
+  "dgSpecHash": "IGdwgIA/KqBwlTIt9dhSZVHdxl1Uzwp9lY1DOq05Db7fZ9Ey4muBp88fEz5BmLFeLaObR4bQNzstC+cnEIL6ig==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtEmailSender\\Files\\CrtEmailSender.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtEmailSender\\Files\\CrtEmailSender.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/N3MyrPzvtU=",
+  "dgSpecHash": "N2npG7IG4bLJopRiCZMZmJuxWcNwXNGLbODT3WZPTkBa/cZs/+NM1XmecXSWZMUZU8wozs6YfwR3jW+eyxrMVA==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtMobileFreedomUIStylesFor7x\\Files\\CrtMobileFreedomUIStylesFor7x.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtMobileFreedomUIStylesFor7x\\Files\\CrtMobileFreedomUIStylesFor7x.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

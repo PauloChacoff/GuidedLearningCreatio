@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UBEdyGzdfBA=",
+  "dgSpecHash": "UaE0VSV6nN3H29Yi02hks3fA1W5sY+GOeVNihgt36jsq0PZDN7tPwsTnQnhu6NgCpKdCfbkeWFb9TKeAKMuwKw==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtUIPlatform\\Files\\CrtUIPlatform.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtUIPlatform\\Files\\CrtUIPlatform.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

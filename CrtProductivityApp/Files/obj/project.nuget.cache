@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vE+o9rFNQgE=",
+  "dgSpecHash": "XfnEQR4RzevJtT1/EU15GRRswWpyFrBz/8jZN/0LmR3n2k8ngJEAeBdcGCehl4aFrad7G1tkR5TcmddoHhG3ZA==",
   "success": true,
-  "projectFilePath": "C:\\CI\\work\\BuildProduct\\Deploy\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtProductivityApp\\Files\\CrtProductivityApp.csproj",
+  "projectFilePath": "C:\\Studio Creatio 8.2\\8.2.0.4183_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtProductivityApp\\Files\\CrtProductivityApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
